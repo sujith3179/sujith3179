@@ -35,6 +35,20 @@ I'm an Engineer with Master's Degree in Computer Science, looking for a phenomen
 
 <p align="left"> <a href="https://github.com/sujith3179" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sujith-tumma/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/14455694/walkeyn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://twitter.com/sujith_tumma" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
+
+<h1 align="center">  <strong>NPX CARD</strong> </h1>
+<h3 align="center"> Connect with me using my NPX Card directly via a terminal </h3>
+
+<br />
+
+### <strong>👇 just hit this in your terminal</strong>
+
+```bash
+npx sujith
+```
+
+<br />
+
 ### Badges
 
 <b>My GitHub Stats</b>
