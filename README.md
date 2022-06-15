@@ -54,7 +54,3 @@ npx sujith
 <b>My GitHub Stats</b>
 
 <a href="https://github.com/sujith3179"><img src="https://github-readme-stats.vercel.app/api?username=sujith3179&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=0f172a&icon_color=ef4444&bg_color=ffffff&hide_border=true&show_icons=true" alt="Sujith Tumma's GitHub stats" /></a>
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/sujithtumma"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
