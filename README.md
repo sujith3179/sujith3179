@@ -10,6 +10,7 @@ I'm an Engineer with Master's Degree in Computer Science, looking for a phenomen
 * ✉️  You can contact me at [stumma2@ncsu.edu](mailto:stumma2@ncsu.edu)
 * 🤝  I'm open to collaborating on Web Development and Data Science Projects
 
+This is my personal account , find my enterprise account here: https://github.ncsu.edu/stumma2
 ### Skills
 
 <p align="left">
